@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912738541573",
+    "project_id": "college-project-17138",
+    "storage_bucket": "college-project-17138.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912738541573:android:3746801ad3449870e63c6c",
+        "android_client_info": {
+          "package_name": "dhairyapandya.com.societymanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912738541573-7a4f679vv3bq0alqcgi4k7tvcdfcqjg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSfmXJ1uPLCTwne2kmhJs2T3AR1IW5AWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912738541573-7a4f679vv3bq0alqcgi4k7tvcdfcqjg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
